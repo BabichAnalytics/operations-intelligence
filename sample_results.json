@@ -1,0 +1,2175 @@
+{
+  "01_portfolio": [
+    {
+      "projects": 180,
+      "completed": 160,
+      "active": 20,
+      "late_completed": 93,
+      "late_pct": 58.1,
+      "over_budget_completed": 77
+    }
+  ],
+  "02_delayed_projects": [
+    {
+      "project_id": 1,
+      "crew": "Maple",
+      "project_type": "Deck",
+      "planned_finish": "2025-03-04",
+      "actual_finish": "2025-03-14",
+      "delay_days": 10
+    },
+    {
+      "project_id": 11,
+      "crew": "Maple",
+      "project_type": "Deck",
+      "planned_finish": "2025-03-02",
+      "actual_finish": "2025-03-12",
+      "delay_days": 10
+    },
+    {
+      "project_id": 12,
+      "crew": "Oak",
+      "project_type": "Deck",
+      "planned_finish": "2025-06-13",
+      "actual_finish": "2025-06-23",
+      "delay_days": 10
+    },
+    {
+      "project_id": 14,
+      "crew": "Pine",
+      "project_type": "Addition",
+      "planned_finish": "2025-06-22",
+      "actual_finish": "2025-07-02",
+      "delay_days": 10
+    },
+    {
+      "project_id": 31,
+      "crew": "Cedar",
+      "project_type": "Patio",
+      "planned_finish": "2025-09-03",
+      "actual_finish": "2025-09-13",
+      "delay_days": 10
+    },
+    {
+      "project_id": 50,
+      "crew": "Cedar",
+      "project_type": "Deck",
+      "planned_finish": "2025-09-06",
+      "actual_finish": "2025-09-16",
+      "delay_days": 10
+    },
+    {
+      "project_id": 58,
+      "crew": "Cedar",
+      "project_type": "Deck",
+      "planned_finish": "2025-10-05",
+      "actual_finish": "2025-10-15",
+      "delay_days": 10
+    },
+    {
+      "project_id": 61,
+      "crew": "Cedar",
+      "project_type": "Addition",
+      "planned_finish": "2025-05-17",
+      "actual_finish": "2025-05-27",
+      "delay_days": 10
+    },
+    {
+      "project_id": 76,
+      "crew": "Maple",
+      "project_type": "Patio",
+      "planned_finish": "2025-08-21",
+      "actual_finish": "2025-08-31",
+      "delay_days": 10
+    },
+    {
+      "project_id": 84,
+      "crew": "Maple",
+      "project_type": "Patio",
+      "planned_finish": "2025-01-21",
+      "actual_finish": "2025-01-31",
+      "delay_days": 10
+    },
+    {
+      "project_id": 91,
+      "crew": "Cedar",
+      "project_type": "Addition",
+      "planned_finish": "2025-07-29",
+      "actual_finish": "2025-08-08",
+      "delay_days": 10
+    },
+    {
+      "project_id": 92,
+      "crew": "Cedar",
+      "project_type": "Addition",
+      "planned_finish": "2025-05-13",
+      "actual_finish": "2025-05-23",
+      "delay_days": 10
+    },
+    {
+      "project_id": 103,
+      "crew": "Oak",
+      "project_type": "Patio",
+      "planned_finish": "2025-07-05",
+      "actual_finish": "2025-07-15",
+      "delay_days": 10
+    },
+    {
+      "project_id": 105,
+      "crew": "Oak",
+      "project_type": "Deck",
+      "planned_finish": "2025-09-18",
+      "actual_finish": "2025-09-28",
+      "delay_days": 10
+    },
+    {
+      "project_id": 113,
+      "crew": "Oak",
+      "project_type": "Addition",
+      "planned_finish": "2025-03-03",
+      "actual_finish": "2025-03-13",
+      "delay_days": 10
+    },
+    {
+      "project_id": 116,
+      "crew": "Oak",
+      "project_type": "Addition",
+      "planned_finish": "2025-08-28",
+      "actual_finish": "2025-09-07",
+      "delay_days": 10
+    },
+    {
+      "project_id": 120,
+      "crew": "Oak",
+      "project_type": "Deck",
+      "planned_finish": "2025-02-08",
+      "actual_finish": "2025-02-18",
+      "delay_days": 10
+    },
+    {
+      "project_id": 124,
+      "crew": "Cedar",
+      "project_type": "Patio",
+      "planned_finish": "2025-09-25",
+      "actual_finish": "2025-10-05",
+      "delay_days": 10
+    },
+    {
+      "project_id": 128,
+      "crew": "Cedar",
+      "project_type": "Deck",
+      "planned_finish": "2025-06-16",
+      "actual_finish": "2025-06-26",
+      "delay_days": 10
+    },
+    {
+      "project_id": 137,
+      "crew": "Pine",
+      "project_type": "Deck",
+      "planned_finish": "2025-08-01",
+      "actual_finish": "2025-08-11",
+      "delay_days": 10
+    },
+    {
+      "project_id": 147,
+      "crew": "Cedar",
+      "project_type": "Patio",
+      "planned_finish": "2025-09-10",
+      "actual_finish": "2025-09-20",
+      "delay_days": 10
+    },
+    {
+      "project_id": 150,
+      "crew": "Oak",
+      "project_type": "Deck",
+      "planned_finish": "2025-06-06",
+      "actual_finish": "2025-06-16",
+      "delay_days": 10
+    },
+    {
+      "project_id": 151,
+      "crew": "Oak",
+      "project_type": "Deck",
+      "planned_finish": "2025-02-19",
+      "actual_finish": "2025-03-01",
+      "delay_days": 10
+    },
+    {
+      "project_id": 152,
+      "crew": "Oak",
+      "project_type": "Addition",
+      "planned_finish": "2025-07-12",
+      "actual_finish": "2025-07-22",
+      "delay_days": 10
+    },
+    {
+      "project_id": 154,
+      "crew": "Cedar",
+      "project_type": "Patio",
+      "planned_finish": "2025-11-09",
+      "actual_finish": "2025-11-19",
+      "delay_days": 10
+    },
+    {
+      "project_id": 157,
+      "crew": "Oak",
+      "project_type": "Deck",
+      "planned_finish": "2025-03-26",
+      "actual_finish": "2025-04-05",
+      "delay_days": 10
+    },
+    {
+      "project_id": 161,
+      "crew": "Cedar",
+      "project_type": "Deck",
+      "planned_finish": "2025-09-09",
+      "actual_finish": "2025-09-19",
+      "delay_days": 10
+    },
+    {
+      "project_id": 167,
+      "crew": "Cedar",
+      "project_type": "Patio",
+      "planned_finish": "2025-05-14",
+      "actual_finish": "2025-05-24",
+      "delay_days": 10
+    },
+    {
+      "project_id": 170,
+      "crew": "Maple",
+      "project_type": "Deck",
+      "planned_finish": "2025-04-08",
+      "actual_finish": "2025-04-18",
+      "delay_days": 10
+    },
+    {
+      "project_id": 175,
+      "crew": "Pine",
+      "project_type": "Addition",
+      "planned_finish": "2025-08-12",
+      "actual_finish": "2025-08-22",
+      "delay_days": 10
+    },
+    {
+      "project_id": 177,
+      "crew": "Pine",
+      "project_type": "Addition",
+      "planned_finish": "2025-11-18",
+      "actual_finish": "2025-11-28",
+      "delay_days": 10
+    },
+    {
+      "project_id": 3,
+      "crew": "Maple",
+      "project_type": "Addition",
+      "planned_finish": "2025-05-21",
+      "actual_finish": "2025-05-26",
+      "delay_days": 5
+    },
+    {
+      "project_id": 7,
+      "crew": "Pine",
+      "project_type": "Deck",
+      "planned_finish": "2025-02-11",
+      "actual_finish": "2025-02-16",
+      "delay_days": 5
+    },
+    {
+      "project_id": 16,
+      "crew": "Cedar",
+      "project_type": "Deck",
+      "planned_finish": "2025-05-02",
+      "actual_finish": "2025-05-07",
+      "delay_days": 5
+    },
+    {
+      "project_id": 17,
+      "crew": "Pine",
+      "project_type": "Patio",
+      "planned_finish": "2025-04-10",
+      "actual_finish": "2025-04-15",
+      "delay_days": 5
+    },
+    {
+      "project_id": 20,
+      "crew": "Cedar",
+      "project_type": "Addition",
+      "planned_finish": "2025-01-15",
+      "actual_finish": "2025-01-20",
+      "delay_days": 5
+    },
+    {
+      "project_id": 22,
+      "crew": "Pine",
+      "project_type": "Deck",
+      "planned_finish": "2025-10-04",
+      "actual_finish": "2025-10-09",
+      "delay_days": 5
+    },
+    {
+      "project_id": 26,
+      "crew": "Cedar",
+      "project_type": "Deck",
+      "planned_finish": "2025-07-30",
+      "actual_finish": "2025-08-04",
+      "delay_days": 5
+    },
+    {
+      "project_id": 37,
+      "crew": "Oak",
+      "project_type": "Deck",
+      "planned_finish": "2025-04-28",
+      "actual_finish": "2025-05-03",
+      "delay_days": 5
+    },
+    {
+      "project_id": 38,
+      "crew": "Cedar",
+      "project_type": "Addition",
+      "planned_finish": "2025-09-23",
+      "actual_finish": "2025-09-28",
+      "delay_days": 5
+    },
+    {
+      "project_id": 39,
+      "crew": "Maple",
+      "project_type": "Patio",
+      "planned_finish": "2025-04-13",
+      "actual_finish": "2025-04-18",
+      "delay_days": 5
+    },
+    {
+      "project_id": 40,
+      "crew": "Cedar",
+      "project_type": "Patio",
+      "planned_finish": "2025-05-30",
+      "actual_finish": "2025-06-04",
+      "delay_days": 5
+    },
+    {
+      "project_id": 53,
+      "crew": "Maple",
+      "project_type": "Deck",
+      "planned_finish": "2025-03-10",
+      "actual_finish": "2025-03-15",
+      "delay_days": 5
+    },
+    {
+      "project_id": 60,
+      "crew": "Cedar",
+      "project_type": "Patio",
+      "planned_finish": "2025-06-28",
+      "actual_finish": "2025-07-03",
+      "delay_days": 5
+    },
+    {
+      "project_id": 65,
+      "crew": "Pine",
+      "project_type": "Addition",
+      "planned_finish": "2025-04-24",
+      "actual_finish": "2025-04-29",
+      "delay_days": 5
+    },
+    {
+      "project_id": 73,
+      "crew": "Pine",
+      "project_type": "Addition",
+      "planned_finish": "2025-10-21",
+      "actual_finish": "2025-10-26",
+      "delay_days": 5
+    },
+    {
+      "project_id": 83,
+      "crew": "Pine",
+      "project_type": "Addition",
+      "planned_finish": "2025-09-06",
+      "actual_finish": "2025-09-11",
+      "delay_days": 5
+    },
+    {
+      "project_id": 100,
+      "crew": "Pine",
+      "project_type": "Addition",
+      "planned_finish": "2025-08-17",
+      "actual_finish": "2025-08-22",
+      "delay_days": 5
+    },
+    {
+      "project_id": 110,
+      "crew": "Maple",
+      "project_type": "Deck",
+      "planned_finish": "2025-09-16",
+      "actual_finish": "2025-09-21",
+      "delay_days": 5
+    },
+    {
+      "project_id": 112,
+      "crew": "Oak",
+      "project_type": "Addition",
+      "planned_finish": "2025-08-29",
+      "actual_finish": "2025-09-03",
+      "delay_days": 5
+    },
+    {
+      "project_id": 114,
+      "crew": "Maple",
+      "project_type": "Deck",
+      "planned_finish": "2025-05-13",
+      "actual_finish": "2025-05-18",
+      "delay_days": 5
+    },
+    {
+      "project_id": 132,
+      "crew": "Maple",
+      "project_type": "Deck",
+      "planned_finish": "2025-07-27",
+      "actual_finish": "2025-08-01",
+      "delay_days": 5
+    },
+    {
+      "project_id": 133,
+      "crew": "Cedar",
+      "project_type": "Patio",
+      "planned_finish": "2025-08-16",
+      "actual_finish": "2025-08-21",
+      "delay_days": 5
+    },
+    {
+      "project_id": 158,
+      "crew": "Pine",
+      "project_type": "Patio",
+      "planned_finish": "2025-01-21",
+      "actual_finish": "2025-01-26",
+      "delay_days": 5
+    },
+    {
+      "project_id": 160,
+      "crew": "Maple",
+      "project_type": "Addition",
+      "planned_finish": "2025-02-06",
+      "actual_finish": "2025-02-11",
+      "delay_days": 5
+    },
+    {
+      "project_id": 172,
+      "crew": "Cedar",
+      "project_type": "Patio",
+      "planned_finish": "2025-03-24",
+      "actual_finish": "2025-03-29",
+      "delay_days": 5
+    },
+    {
+      "project_id": 173,
+      "crew": "Pine",
+      "project_type": "Addition",
+      "planned_finish": "2025-07-26",
+      "actual_finish": "2025-07-31",
+      "delay_days": 5
+    },
+    {
+      "project_id": 176,
+      "crew": "Cedar",
+      "project_type": "Deck",
+      "planned_finish": "2025-02-26",
+      "actual_finish": "2025-03-03",
+      "delay_days": 5
+    },
+    {
+      "project_id": 178,
+      "crew": "Cedar",
+      "project_type": "Addition",
+      "planned_finish": "2025-09-11",
+      "actual_finish": "2025-09-16",
+      "delay_days": 5
+    },
+    {
+      "project_id": 6,
+      "crew": "Oak",
+      "project_type": "Patio",
+      "planned_finish": "2025-03-01",
+      "actual_finish": "2025-03-03",
+      "delay_days": 2
+    },
+    {
+      "project_id": 13,
+      "crew": "Cedar",
+      "project_type": "Deck",
+      "planned_finish": "2025-02-01",
+      "actual_finish": "2025-02-03",
+      "delay_days": 2
+    },
+    {
+      "project_id": 25,
+      "crew": "Maple",
+      "project_type": "Addition",
+      "planned_finish": "2025-10-22",
+      "actual_finish": "2025-10-24",
+      "delay_days": 2
+    },
+    {
+      "project_id": 42,
+      "crew": "Oak",
+      "project_type": "Patio",
+      "planned_finish": "2025-05-16",
+      "actual_finish": "2025-05-18",
+      "delay_days": 2
+    },
+    {
+      "project_id": 43,
+      "crew": "Cedar",
+      "project_type": "Addition",
+      "planned_finish": "2025-02-12",
+      "actual_finish": "2025-02-14",
+      "delay_days": 2
+    },
+    {
+      "project_id": 48,
+      "crew": "Cedar",
+      "project_type": "Deck",
+      "planned_finish": "2025-06-06",
+      "actual_finish": "2025-06-08",
+      "delay_days": 2
+    },
+    {
+      "project_id": 62,
+      "crew": "Oak",
+      "project_type": "Addition",
+      "planned_finish": "2025-04-27",
+      "actual_finish": "2025-04-29",
+      "delay_days": 2
+    },
+    {
+      "project_id": 66,
+      "crew": "Pine",
+      "project_type": "Patio",
+      "planned_finish": "2025-06-07",
+      "actual_finish": "2025-06-09",
+      "delay_days": 2
+    },
+    {
+      "project_id": 67,
+      "crew": "Cedar",
+      "project_type": "Patio",
+      "planned_finish": "2025-05-11",
+      "actual_finish": "2025-05-13",
+      "delay_days": 2
+    },
+    {
+      "project_id": 69,
+      "crew": "Pine",
+      "project_type": "Patio",
+      "planned_finish": "2025-02-05",
+      "actual_finish": "2025-02-07",
+      "delay_days": 2
+    },
+    {
+      "project_id": 70,
+      "crew": "Maple",
+      "project_type": "Deck",
+      "planned_finish": "2025-04-27",
+      "actual_finish": "2025-04-29",
+      "delay_days": 2
+    },
+    {
+      "project_id": 71,
+      "crew": "Maple",
+      "project_type": "Addition",
+      "planned_finish": "2025-01-11",
+      "actual_finish": "2025-01-13",
+      "delay_days": 2
+    },
+    {
+      "project_id": 74,
+      "crew": "Pine",
+      "project_type": "Patio",
+      "planned_finish": "2025-08-29",
+      "actual_finish": "2025-08-31",
+      "delay_days": 2
+    },
+    {
+      "project_id": 78,
+      "crew": "Oak",
+      "project_type": "Addition",
+      "planned_finish": "2025-04-27",
+      "actual_finish": "2025-04-29",
+      "delay_days": 2
+    },
+    {
+      "project_id": 79,
+      "crew": "Cedar",
+      "project_type": "Addition",
+      "planned_finish": "2025-02-12",
+      "actual_finish": "2025-02-14",
+      "delay_days": 2
+    },
+    {
+      "project_id": 82,
+      "crew": "Pine",
+      "project_type": "Addition",
+      "planned_finish": "2025-09-11",
+      "actual_finish": "2025-09-13",
+      "delay_days": 2
+    },
+    {
+      "project_id": 86,
+      "crew": "Cedar",
+      "project_type": "Patio",
+      "planned_finish": "2025-07-27",
+      "actual_finish": "2025-07-29",
+      "delay_days": 2
+    },
+    {
+      "project_id": 93,
+      "crew": "Cedar",
+      "project_type": "Addition",
+      "planned_finish": "2025-07-19",
+      "actual_finish": "2025-07-21",
+      "delay_days": 2
+    },
+    {
+      "project_id": 94,
+      "crew": "Pine",
+      "project_type": "Patio",
+      "planned_finish": "2025-01-25",
+      "actual_finish": "2025-01-27",
+      "delay_days": 2
+    },
+    {
+      "project_id": 95,
+      "crew": "Oak",
+      "project_type": "Addition",
+      "planned_finish": "2025-09-02",
+      "actual_finish": "2025-09-04",
+      "delay_days": 2
+    },
+    {
+      "project_id": 96,
+      "crew": "Oak",
+      "project_type": "Deck",
+      "planned_finish": "2025-09-24",
+      "actual_finish": "2025-09-26",
+      "delay_days": 2
+    },
+    {
+      "project_id": 97,
+      "crew": "Oak",
+      "project_type": "Deck",
+      "planned_finish": "2025-08-31",
+      "actual_finish": "2025-09-02",
+      "delay_days": 2
+    },
+    {
+      "project_id": 98,
+      "crew": "Oak",
+      "project_type": "Patio",
+      "planned_finish": "2025-06-26",
+      "actual_finish": "2025-06-28",
+      "delay_days": 2
+    },
+    {
+      "project_id": 127,
+      "crew": "Maple",
+      "project_type": "Patio",
+      "planned_finish": "2025-10-08",
+      "actual_finish": "2025-10-10",
+      "delay_days": 2
+    },
+    {
+      "project_id": 131,
+      "crew": "Maple",
+      "project_type": "Patio",
+      "planned_finish": "2025-06-07",
+      "actual_finish": "2025-06-09",
+      "delay_days": 2
+    },
+    {
+      "project_id": 138,
+      "crew": "Pine",
+      "project_type": "Deck",
+      "planned_finish": "2025-06-27",
+      "actual_finish": "2025-06-29",
+      "delay_days": 2
+    },
+    {
+      "project_id": 142,
+      "crew": "Cedar",
+      "project_type": "Patio",
+      "planned_finish": "2025-05-04",
+      "actual_finish": "2025-05-06",
+      "delay_days": 2
+    },
+    {
+      "project_id": 145,
+      "crew": "Pine",
+      "project_type": "Addition",
+      "planned_finish": "2025-03-06",
+      "actual_finish": "2025-03-08",
+      "delay_days": 2
+    },
+    {
+      "project_id": 148,
+      "crew": "Pine",
+      "project_type": "Patio",
+      "planned_finish": "2025-06-28",
+      "actual_finish": "2025-06-30",
+      "delay_days": 2
+    },
+    {
+      "project_id": 156,
+      "crew": "Oak",
+      "project_type": "Deck",
+      "planned_finish": "2025-04-08",
+      "actual_finish": "2025-04-10",
+      "delay_days": 2
+    },
+    {
+      "project_id": 159,
+      "crew": "Cedar",
+      "project_type": "Addition",
+      "planned_finish": "2025-06-07",
+      "actual_finish": "2025-06-09",
+      "delay_days": 2
+    },
+    {
+      "project_id": 164,
+      "crew": "Cedar",
+      "project_type": "Addition",
+      "planned_finish": "2025-10-02",
+      "actual_finish": "2025-10-04",
+      "delay_days": 2
+    },
+    {
+      "project_id": 166,
+      "crew": "Maple",
+      "project_type": "Deck",
+      "planned_finish": "2025-07-09",
+      "actual_finish": "2025-07-11",
+      "delay_days": 2
+    },
+    {
+      "project_id": 179,
+      "crew": "Maple",
+      "project_type": "Patio",
+      "planned_finish": "2025-10-21",
+      "actual_finish": "2025-10-23",
+      "delay_days": 2
+    }
+  ],
+  "03_budget_variance": [
+    {
+      "project_id": 4,
+      "crew": "Oak",
+      "budget": 30900.0,
+      "actual_cost": 38007.0,
+      "variance": 7107.0,
+      "variance_pct": 23.0
+    },
+    {
+      "project_id": 102,
+      "crew": "Oak",
+      "budget": 32200.0,
+      "actual_cost": 39284.0,
+      "variance": 7084.0,
+      "variance_pct": 22.0
+    },
+    {
+      "project_id": 157,
+      "crew": "Oak",
+      "budget": 28300.0,
+      "actual_cost": 35375.0,
+      "variance": 7075.0,
+      "variance_pct": 25.0
+    },
+    {
+      "project_id": 136,
+      "crew": "Cedar",
+      "budget": 29000.0,
+      "actual_cost": 35380.0,
+      "variance": 6380.0,
+      "variance_pct": 22.0
+    },
+    {
+      "project_id": 80,
+      "crew": "Pine",
+      "budget": 27900.0,
+      "actual_cost": 34038.0,
+      "variance": 6138.0,
+      "variance_pct": 22.0
+    },
+    {
+      "project_id": 92,
+      "crew": "Cedar",
+      "budget": 23400.0,
+      "actual_cost": 29250.0,
+      "variance": 5850.0,
+      "variance_pct": 25.0
+    },
+    {
+      "project_id": 107,
+      "crew": "Maple",
+      "budget": 22900.0,
+      "actual_cost": 28167.0,
+      "variance": 5267.0,
+      "variance_pct": 23.0
+    },
+    {
+      "project_id": 5,
+      "crew": "Maple",
+      "budget": 22200.0,
+      "actual_cost": 27306.0,
+      "variance": 5106.0,
+      "variance_pct": 23.0
+    },
+    {
+      "project_id": 73,
+      "crew": "Pine",
+      "budget": 24200.0,
+      "actual_cost": 29282.0,
+      "variance": 5082.0,
+      "variance_pct": 21.0
+    },
+    {
+      "project_id": 128,
+      "crew": "Cedar",
+      "budget": 32800.0,
+      "actual_cost": 37720.0,
+      "variance": 4920.0,
+      "variance_pct": 15.0
+    },
+    {
+      "project_id": 46,
+      "crew": "Cedar",
+      "budget": 21500.0,
+      "actual_cost": 26230.0,
+      "variance": 4730.0,
+      "variance_pct": 22.0
+    },
+    {
+      "project_id": 163,
+      "crew": "Maple",
+      "budget": 29400.0,
+      "actual_cost": 34104.0,
+      "variance": 4704.0,
+      "variance_pct": 16.0
+    },
+    {
+      "project_id": 70,
+      "crew": "Maple",
+      "budget": 28400.0,
+      "actual_cost": 32944.0,
+      "variance": 4544.0,
+      "variance_pct": 16.0
+    },
+    {
+      "project_id": 133,
+      "crew": "Cedar",
+      "budget": 21600.0,
+      "actual_cost": 26136.0,
+      "variance": 4536.0,
+      "variance_pct": 21.0
+    },
+    {
+      "project_id": 101,
+      "crew": "Maple",
+      "budget": 23000.0,
+      "actual_cost": 27370.0,
+      "variance": 4370.0,
+      "variance_pct": 19.0
+    },
+    {
+      "project_id": 151,
+      "crew": "Oak",
+      "budget": 33400.0,
+      "actual_cost": 37742.0,
+      "variance": 4342.0,
+      "variance_pct": 13.0
+    },
+    {
+      "project_id": 93,
+      "crew": "Cedar",
+      "budget": 26900.0,
+      "actual_cost": 31204.0,
+      "variance": 4304.0,
+      "variance_pct": 16.0
+    },
+    {
+      "project_id": 23,
+      "crew": "Cedar",
+      "budget": 20300.0,
+      "actual_cost": 24563.0,
+      "variance": 4263.0,
+      "variance_pct": 21.0
+    },
+    {
+      "project_id": 41,
+      "crew": "Maple",
+      "budget": 21300.0,
+      "actual_cost": 25560.0,
+      "variance": 4260.0,
+      "variance_pct": 20.0
+    },
+    {
+      "project_id": 112,
+      "crew": "Oak",
+      "budget": 29900.0,
+      "actual_cost": 34086.0,
+      "variance": 4186.0,
+      "variance_pct": 14.0
+    },
+    {
+      "project_id": 152,
+      "crew": "Oak",
+      "budget": 17700.0,
+      "actual_cost": 21771.0,
+      "variance": 4071.0,
+      "variance_pct": 23.0
+    },
+    {
+      "project_id": 100,
+      "crew": "Pine",
+      "budget": 20300.0,
+      "actual_cost": 24360.0,
+      "variance": 4060.0,
+      "variance_pct": 20.0
+    },
+    {
+      "project_id": 60,
+      "crew": "Cedar",
+      "budget": 34100.0,
+      "actual_cost": 37851.0,
+      "variance": 3751.0,
+      "variance_pct": 11.0
+    },
+    {
+      "project_id": 140,
+      "crew": "Pine",
+      "budget": 24800.0,
+      "actual_cost": 28520.0,
+      "variance": 3720.0,
+      "variance_pct": 15.0
+    },
+    {
+      "project_id": 29,
+      "crew": "Pine",
+      "budget": 14700.0,
+      "actual_cost": 18375.0,
+      "variance": 3675.0,
+      "variance_pct": 25.0
+    },
+    {
+      "project_id": 91,
+      "crew": "Cedar",
+      "budget": 18100.0,
+      "actual_cost": 21539.0,
+      "variance": 3439.0,
+      "variance_pct": 19.0
+    },
+    {
+      "project_id": 47,
+      "crew": "Oak",
+      "budget": 18700.0,
+      "actual_cost": 22066.0,
+      "variance": 3366.0,
+      "variance_pct": 18.0
+    },
+    {
+      "project_id": 131,
+      "crew": "Maple",
+      "budget": 32100.0,
+      "actual_cost": 35310.0,
+      "variance": 3210.0,
+      "variance_pct": 10.0
+    },
+    {
+      "project_id": 48,
+      "crew": "Cedar",
+      "budget": 20800.0,
+      "actual_cost": 23920.0,
+      "variance": 3120.0,
+      "variance_pct": 15.0
+    },
+    {
+      "project_id": 150,
+      "crew": "Oak",
+      "budget": 28200.0,
+      "actual_cost": 31302.0,
+      "variance": 3102.0,
+      "variance_pct": 11.0
+    },
+    {
+      "project_id": 77,
+      "crew": "Maple",
+      "budget": 15700.0,
+      "actual_cost": 18683.0,
+      "variance": 2983.0,
+      "variance_pct": 19.0
+    },
+    {
+      "project_id": 59,
+      "crew": "Pine",
+      "budget": 13500.0,
+      "actual_cost": 16335.0,
+      "variance": 2835.0,
+      "variance_pct": 21.0
+    },
+    {
+      "project_id": 138,
+      "crew": "Pine",
+      "budget": 13100.0,
+      "actual_cost": 15851.0,
+      "variance": 2751.0,
+      "variance_pct": 21.0
+    },
+    {
+      "project_id": 31,
+      "crew": "Cedar",
+      "budget": 13000.0,
+      "actual_cost": 15730.0,
+      "variance": 2730.0,
+      "variance_pct": 21.0
+    },
+    {
+      "project_id": 61,
+      "crew": "Cedar",
+      "budget": 30300.0,
+      "actual_cost": 33027.0,
+      "variance": 2727.0,
+      "variance_pct": 9.0
+    },
+    {
+      "project_id": 125,
+      "crew": "Cedar",
+      "budget": 28600.0,
+      "actual_cost": 31174.0,
+      "variance": 2574.0,
+      "variance_pct": 9.0
+    },
+    {
+      "project_id": 158,
+      "crew": "Pine",
+      "budget": 14300.0,
+      "actual_cost": 16874.0,
+      "variance": 2574.0,
+      "variance_pct": 18.0
+    },
+    {
+      "project_id": 116,
+      "crew": "Oak",
+      "budget": 19900.0,
+      "actual_cost": 22288.0,
+      "variance": 2388.0,
+      "variance_pct": 12.0
+    },
+    {
+      "project_id": 13,
+      "crew": "Cedar",
+      "budget": 21700.0,
+      "actual_cost": 24087.0,
+      "variance": 2387.0,
+      "variance_pct": 11.0
+    },
+    {
+      "project_id": 106,
+      "crew": "Cedar",
+      "budget": 23400.0,
+      "actual_cost": 25506.0,
+      "variance": 2106.0,
+      "variance_pct": 9.0
+    },
+    {
+      "project_id": 141,
+      "crew": "Maple",
+      "budget": 11500.0,
+      "actual_cost": 13570.0,
+      "variance": 2070.0,
+      "variance_pct": 18.0
+    },
+    {
+      "project_id": 94,
+      "crew": "Pine",
+      "budget": 13400.0,
+      "actual_cost": 15410.0,
+      "variance": 2010.0,
+      "variance_pct": 15.0
+    },
+    {
+      "project_id": 169,
+      "crew": "Maple",
+      "budget": 22100.0,
+      "actual_cost": 24089.0,
+      "variance": 1989.0,
+      "variance_pct": 9.0
+    },
+    {
+      "project_id": 177,
+      "crew": "Pine",
+      "budget": 24600.0,
+      "actual_cost": 26568.0,
+      "variance": 1968.0,
+      "variance_pct": 8.0
+    },
+    {
+      "project_id": 69,
+      "crew": "Pine",
+      "budget": 11700.0,
+      "actual_cost": 13455.0,
+      "variance": 1755.0,
+      "variance_pct": 15.0
+    },
+    {
+      "project_id": 40,
+      "crew": "Cedar",
+      "budget": 10000.0,
+      "actual_cost": 11700.0,
+      "variance": 1700.0,
+      "variance_pct": 17.0
+    },
+    {
+      "project_id": 6,
+      "crew": "Oak",
+      "budget": 12900.0,
+      "actual_cost": 14577.0,
+      "variance": 1677.0,
+      "variance_pct": 13.0
+    },
+    {
+      "project_id": 97,
+      "crew": "Oak",
+      "budget": 27400.0,
+      "actual_cost": 29044.0,
+      "variance": 1644.0,
+      "variance_pct": 6.0
+    },
+    {
+      "project_id": 174,
+      "crew": "Cedar",
+      "budget": 31400.0,
+      "actual_cost": 32970.0,
+      "variance": 1570.0,
+      "variance_pct": 5.0
+    },
+    {
+      "project_id": 71,
+      "crew": "Maple",
+      "budget": 19200.0,
+      "actual_cost": 20736.0,
+      "variance": 1536.0,
+      "variance_pct": 8.0
+    },
+    {
+      "project_id": 95,
+      "crew": "Oak",
+      "budget": 17000.0,
+      "actual_cost": 18530.0,
+      "variance": 1530.0,
+      "variance_pct": 9.0
+    },
+    {
+      "project_id": 122,
+      "crew": "Pine",
+      "budget": 30300.0,
+      "actual_cost": 31815.0,
+      "variance": 1515.0,
+      "variance_pct": 5.0
+    },
+    {
+      "project_id": 3,
+      "crew": "Maple",
+      "budget": 9300.0,
+      "actual_cost": 10788.0,
+      "variance": 1488.0,
+      "variance_pct": 16.0
+    },
+    {
+      "project_id": 17,
+      "crew": "Pine",
+      "budget": 11200.0,
+      "actual_cost": 12656.0,
+      "variance": 1456.0,
+      "variance_pct": 13.0
+    },
+    {
+      "project_id": 7,
+      "crew": "Pine",
+      "budget": 14300.0,
+      "actual_cost": 15730.0,
+      "variance": 1430.0,
+      "variance_pct": 10.0
+    },
+    {
+      "project_id": 21,
+      "crew": "Oak",
+      "budget": 15800.0,
+      "actual_cost": 17222.0,
+      "variance": 1422.0,
+      "variance_pct": 9.0
+    },
+    {
+      "project_id": 14,
+      "crew": "Pine",
+      "budget": 33500.0,
+      "actual_cost": 34840.0,
+      "variance": 1340.0,
+      "variance_pct": 4.0
+    },
+    {
+      "project_id": 34,
+      "crew": "Maple",
+      "budget": 20100.0,
+      "actual_cost": 21306.0,
+      "variance": 1206.0,
+      "variance_pct": 6.0
+    },
+    {
+      "project_id": 110,
+      "crew": "Maple",
+      "budget": 10700.0,
+      "actual_cost": 11877.0,
+      "variance": 1177.0,
+      "variance_pct": 11.0
+    },
+    {
+      "project_id": 67,
+      "crew": "Cedar",
+      "budget": 16600.0,
+      "actual_cost": 17762.0,
+      "variance": 1162.0,
+      "variance_pct": 7.0
+    },
+    {
+      "project_id": 78,
+      "crew": "Oak",
+      "budget": 28800.0,
+      "actual_cost": 29952.0,
+      "variance": 1152.0,
+      "variance_pct": 4.0
+    },
+    {
+      "project_id": 121,
+      "crew": "Cedar",
+      "budget": 21700.0,
+      "actual_cost": 22785.0,
+      "variance": 1085.0,
+      "variance_pct": 5.0
+    },
+    {
+      "project_id": 127,
+      "crew": "Maple",
+      "budget": 10600.0,
+      "actual_cost": 11660.0,
+      "variance": 1060.0,
+      "variance_pct": 10.0
+    },
+    {
+      "project_id": 155,
+      "crew": "Oak",
+      "budget": 14700.0,
+      "actual_cost": 15729.0,
+      "variance": 1029.0,
+      "variance_pct": 7.0
+    },
+    {
+      "project_id": 83,
+      "crew": "Pine",
+      "budget": 9300.0,
+      "actual_cost": 10323.0,
+      "variance": 1023.0,
+      "variance_pct": 11.0
+    },
+    {
+      "project_id": 156,
+      "crew": "Oak",
+      "budget": 23100.0,
+      "actual_cost": 24024.0,
+      "variance": 924.0,
+      "variance_pct": 4.0
+    },
+    {
+      "project_id": 166,
+      "crew": "Maple",
+      "budget": 22100.0,
+      "actual_cost": 22984.0,
+      "variance": 884.0,
+      "variance_pct": 4.0
+    },
+    {
+      "project_id": 66,
+      "crew": "Pine",
+      "budget": 24400.0,
+      "actual_cost": 25132.0,
+      "variance": 732.0,
+      "variance_pct": 3.0
+    },
+    {
+      "project_id": 55,
+      "crew": "Pine",
+      "budget": 13500.0,
+      "actual_cost": 14175.0,
+      "variance": 675.0,
+      "variance_pct": 5.0
+    },
+    {
+      "project_id": 28,
+      "crew": "Oak",
+      "budget": 9600.0,
+      "actual_cost": 10272.0,
+      "variance": 672.0,
+      "variance_pct": 7.0
+    },
+    {
+      "project_id": 11,
+      "crew": "Maple",
+      "budget": 16700.0,
+      "actual_cost": 17368.0,
+      "variance": 668.0,
+      "variance_pct": 4.0
+    },
+    {
+      "project_id": 172,
+      "crew": "Cedar",
+      "budget": 13800.0,
+      "actual_cost": 14214.0,
+      "variance": 414.0,
+      "variance_pct": 3.0
+    },
+    {
+      "project_id": 175,
+      "crew": "Pine",
+      "budget": 13500.0,
+      "actual_cost": 13905.0,
+      "variance": 405.0,
+      "variance_pct": 3.0
+    },
+    {
+      "project_id": 32,
+      "crew": "Pine",
+      "budget": 17700.0,
+      "actual_cost": 18054.0,
+      "variance": 354.0,
+      "variance_pct": 2.0
+    },
+    {
+      "project_id": 30,
+      "crew": "Pine",
+      "budget": 12900.0,
+      "actual_cost": 13158.0,
+      "variance": 258.0,
+      "variance_pct": 2.0
+    },
+    {
+      "project_id": 123,
+      "crew": "Maple",
+      "budget": 13300.0,
+      "actual_cost": 13433.0,
+      "variance": 133.0,
+      "variance_pct": 1.0
+    },
+    {
+      "project_id": 114,
+      "crew": "Maple",
+      "budget": 11800.0,
+      "actual_cost": 11918.0,
+      "variance": 118.0,
+      "variance_pct": 1.0
+    },
+    {
+      "project_id": 15,
+      "crew": "Pine",
+      "budget": 21400.0,
+      "actual_cost": 21400.0,
+      "variance": 0.0,
+      "variance_pct": 0.0
+    },
+    {
+      "project_id": 35,
+      "crew": "Pine",
+      "budget": 16400.0,
+      "actual_cost": 16236.0,
+      "variance": -164.0,
+      "variance_pct": -1.0
+    },
+    {
+      "project_id": 64,
+      "crew": "Pine",
+      "budget": 17800.0,
+      "actual_cost": 17622.0,
+      "variance": -178.0,
+      "variance_pct": -1.0
+    },
+    {
+      "project_id": 79,
+      "crew": "Cedar",
+      "budget": 27900.0,
+      "actual_cost": 27621.0,
+      "variance": -279.0,
+      "variance_pct": -1.0
+    },
+    {
+      "project_id": 170,
+      "crew": "Maple",
+      "budget": 9300.0,
+      "actual_cost": 9021.0,
+      "variance": -279.0,
+      "variance_pct": -3.0
+    },
+    {
+      "project_id": 111,
+      "crew": "Maple",
+      "budget": 29300.0,
+      "actual_cost": 29007.0,
+      "variance": -293.0,
+      "variance_pct": -1.0
+    },
+    {
+      "project_id": 164,
+      "crew": "Cedar",
+      "budget": 22300.0,
+      "actual_cost": 21854.0,
+      "variance": -446.0,
+      "variance_pct": -2.0
+    },
+    {
+      "project_id": 139,
+      "crew": "Pine",
+      "budget": 11800.0,
+      "actual_cost": 11328.0,
+      "variance": -472.0,
+      "variance_pct": -4.0
+    },
+    {
+      "project_id": 147,
+      "crew": "Cedar",
+      "budget": 16000.0,
+      "actual_cost": 15520.0,
+      "variance": -480.0,
+      "variance_pct": -3.0
+    },
+    {
+      "project_id": 165,
+      "crew": "Cedar",
+      "budget": 26500.0,
+      "actual_cost": 25970.0,
+      "variance": -530.0,
+      "variance_pct": -2.0
+    },
+    {
+      "project_id": 62,
+      "crew": "Oak",
+      "budget": 11500.0,
+      "actual_cost": 10925.0,
+      "variance": -575.0,
+      "variance_pct": -5.0
+    },
+    {
+      "project_id": 57,
+      "crew": "Cedar",
+      "budget": 22200.0,
+      "actual_cost": 21534.0,
+      "variance": -666.0,
+      "variance_pct": -3.0
+    },
+    {
+      "project_id": 42,
+      "crew": "Oak",
+      "budget": 14700.0,
+      "actual_cost": 13965.0,
+      "variance": -735.0,
+      "variance_pct": -5.0
+    },
+    {
+      "project_id": 154,
+      "crew": "Cedar",
+      "budget": 14700.0,
+      "actual_cost": 13965.0,
+      "variance": -735.0,
+      "variance_pct": -5.0
+    },
+    {
+      "project_id": 143,
+      "crew": "Cedar",
+      "budget": 24600.0,
+      "actual_cost": 23862.0,
+      "variance": -738.0,
+      "variance_pct": -3.0
+    },
+    {
+      "project_id": 168,
+      "crew": "Maple",
+      "budget": 18600.0,
+      "actual_cost": 17856.0,
+      "variance": -744.0,
+      "variance_pct": -4.0
+    },
+    {
+      "project_id": 85,
+      "crew": "Pine",
+      "budget": 18800.0,
+      "actual_cost": 18048.0,
+      "variance": -752.0,
+      "variance_pct": -4.0
+    },
+    {
+      "project_id": 98,
+      "crew": "Oak",
+      "budget": 18800.0,
+      "actual_cost": 18048.0,
+      "variance": -752.0,
+      "variance_pct": -4.0
+    },
+    {
+      "project_id": 44,
+      "crew": "Maple",
+      "budget": 11500.0,
+      "actual_cost": 10695.0,
+      "variance": -805.0,
+      "variance_pct": -7.0
+    },
+    {
+      "project_id": 167,
+      "crew": "Cedar",
+      "budget": 9000.0,
+      "actual_cost": 8100.0,
+      "variance": -900.0,
+      "variance_pct": -10.0
+    },
+    {
+      "project_id": 76,
+      "crew": "Maple",
+      "budget": 22600.0,
+      "actual_cost": 21696.0,
+      "variance": -904.0,
+      "variance_pct": -4.0
+    },
+    {
+      "project_id": 129,
+      "crew": "Pine",
+      "budget": 8700.0,
+      "actual_cost": 7743.0,
+      "variance": -957.0,
+      "variance_pct": -11.0
+    },
+    {
+      "project_id": 20,
+      "crew": "Cedar",
+      "budget": 17100.0,
+      "actual_cost": 16074.0,
+      "variance": -1026.0,
+      "variance_pct": -6.0
+    },
+    {
+      "project_id": 130,
+      "crew": "Pine",
+      "budget": 15800.0,
+      "actual_cost": 14694.0,
+      "variance": -1106.0,
+      "variance_pct": -7.0
+    },
+    {
+      "project_id": 25,
+      "crew": "Maple",
+      "budget": 18800.0,
+      "actual_cost": 17672.0,
+      "variance": -1128.0,
+      "variance_pct": -6.0
+    },
+    {
+      "project_id": 134,
+      "crew": "Pine",
+      "budget": 30800.0,
+      "actual_cost": 29568.0,
+      "variance": -1232.0,
+      "variance_pct": -4.0
+    },
+    {
+      "project_id": 176,
+      "crew": "Cedar",
+      "budget": 15500.0,
+      "actual_cost": 14260.0,
+      "variance": -1240.0,
+      "variance_pct": -8.0
+    },
+    {
+      "project_id": 179,
+      "crew": "Maple",
+      "budget": 31100.0,
+      "actual_cost": 29856.0,
+      "variance": -1244.0,
+      "variance_pct": -4.0
+    },
+    {
+      "project_id": 8,
+      "crew": "Cedar",
+      "budget": 11500.0,
+      "actual_cost": 10235.0,
+      "variance": -1265.0,
+      "variance_pct": -11.0
+    },
+    {
+      "project_id": 115,
+      "crew": "Oak",
+      "budget": 19800.0,
+      "actual_cost": 18414.0,
+      "variance": -1386.0,
+      "variance_pct": -7.0
+    },
+    {
+      "project_id": 74,
+      "crew": "Pine",
+      "budget": 16100.0,
+      "actual_cost": 14651.0,
+      "variance": -1449.0,
+      "variance_pct": -9.0
+    },
+    {
+      "project_id": 173,
+      "crew": "Pine",
+      "budget": 13500.0,
+      "actual_cost": 12015.0,
+      "variance": -1485.0,
+      "variance_pct": -11.0
+    },
+    {
+      "project_id": 88,
+      "crew": "Maple",
+      "budget": 9000.0,
+      "actual_cost": 7470.0,
+      "variance": -1530.0,
+      "variance_pct": -17.0
+    },
+    {
+      "project_id": 43,
+      "crew": "Cedar",
+      "budget": 13100.0,
+      "actual_cost": 11528.0,
+      "variance": -1572.0,
+      "variance_pct": -12.0
+    },
+    {
+      "project_id": 104,
+      "crew": "Maple",
+      "budget": 14100.0,
+      "actual_cost": 12408.0,
+      "variance": -1692.0,
+      "variance_pct": -12.0
+    },
+    {
+      "project_id": 149,
+      "crew": "Oak",
+      "budget": 27500.0,
+      "actual_cost": 25575.0,
+      "variance": -1925.0,
+      "variance_pct": -7.0
+    },
+    {
+      "project_id": 142,
+      "crew": "Cedar",
+      "budget": 13000.0,
+      "actual_cost": 11050.0,
+      "variance": -1950.0,
+      "variance_pct": -15.0
+    },
+    {
+      "project_id": 39,
+      "crew": "Maple",
+      "budget": 11400.0,
+      "actual_cost": 9348.0,
+      "variance": -2052.0,
+      "variance_pct": -18.0
+    },
+    {
+      "project_id": 19,
+      "crew": "Oak",
+      "budget": 13700.0,
+      "actual_cost": 11645.0,
+      "variance": -2055.0,
+      "variance_pct": -15.0
+    },
+    {
+      "project_id": 10,
+      "crew": "Maple",
+      "budget": 26100.0,
+      "actual_cost": 24012.0,
+      "variance": -2088.0,
+      "variance_pct": -8.0
+    },
+    {
+      "project_id": 12,
+      "crew": "Oak",
+      "budget": 19200.0,
+      "actual_cost": 17088.0,
+      "variance": -2112.0,
+      "variance_pct": -11.0
+    },
+    {
+      "project_id": 24,
+      "crew": "Pine",
+      "budget": 14500.0,
+      "actual_cost": 12325.0,
+      "variance": -2175.0,
+      "variance_pct": -15.0
+    },
+    {
+      "project_id": 58,
+      "crew": "Cedar",
+      "budget": 24900.0,
+      "actual_cost": 22659.0,
+      "variance": -2241.0,
+      "variance_pct": -9.0
+    },
+    {
+      "project_id": 33,
+      "crew": "Pine",
+      "budget": 11800.0,
+      "actual_cost": 9558.0,
+      "variance": -2242.0,
+      "variance_pct": -19.0
+    },
+    {
+      "project_id": 49,
+      "crew": "Maple",
+      "budget": 25000.0,
+      "actual_cost": 22750.0,
+      "variance": -2250.0,
+      "variance_pct": -9.0
+    },
+    {
+      "project_id": 37,
+      "crew": "Oak",
+      "budget": 11100.0,
+      "actual_cost": 8658.0,
+      "variance": -2442.0,
+      "variance_pct": -22.0
+    },
+    {
+      "project_id": 52,
+      "crew": "Maple",
+      "budget": 26300.0,
+      "actual_cost": 23670.0,
+      "variance": -2630.0,
+      "variance_pct": -10.0
+    },
+    {
+      "project_id": 137,
+      "crew": "Pine",
+      "budget": 15700.0,
+      "actual_cost": 13031.0,
+      "variance": -2669.0,
+      "variance_pct": -17.0
+    },
+    {
+      "project_id": 148,
+      "crew": "Pine",
+      "budget": 20800.0,
+      "actual_cost": 18096.0,
+      "variance": -2704.0,
+      "variance_pct": -13.0
+    },
+    {
+      "project_id": 132,
+      "crew": "Maple",
+      "budget": 34000.0,
+      "actual_cost": 31280.0,
+      "variance": -2720.0,
+      "variance_pct": -8.0
+    },
+    {
+      "project_id": 103,
+      "crew": "Oak",
+      "budget": 31200.0,
+      "actual_cost": 28392.0,
+      "variance": -2808.0,
+      "variance_pct": -9.0
+    },
+    {
+      "project_id": 159,
+      "crew": "Cedar",
+      "budget": 27000.0,
+      "actual_cost": 24030.0,
+      "variance": -2970.0,
+      "variance_pct": -11.0
+    },
+    {
+      "project_id": 38,
+      "crew": "Cedar",
+      "budget": 16000.0,
+      "actual_cost": 12800.0,
+      "variance": -3200.0,
+      "variance_pct": -20.0
+    },
+    {
+      "project_id": 145,
+      "crew": "Pine",
+      "budget": 20300.0,
+      "actual_cost": 17052.0,
+      "variance": -3248.0,
+      "variance_pct": -16.0
+    },
+    {
+      "project_id": 26,
+      "crew": "Cedar",
+      "budget": 31100.0,
+      "actual_cost": 27679.0,
+      "variance": -3421.0,
+      "variance_pct": -11.0
+    },
+    {
+      "project_id": 75,
+      "crew": "Pine",
+      "budget": 34600.0,
+      "actual_cost": 31140.0,
+      "variance": -3460.0,
+      "variance_pct": -10.0
+    },
+    {
+      "project_id": 1,
+      "crew": "Maple",
+      "budget": 22000.0,
+      "actual_cost": 18260.0,
+      "variance": -3740.0,
+      "variance_pct": -17.0
+    },
+    {
+      "project_id": 113,
+      "crew": "Oak",
+      "budget": 18800.0,
+      "actual_cost": 15040.0,
+      "variance": -3760.0,
+      "variance_pct": -20.0
+    },
+    {
+      "project_id": 82,
+      "crew": "Pine",
+      "budget": 25200.0,
+      "actual_cost": 21420.0,
+      "variance": -3780.0,
+      "variance_pct": -15.0
+    },
+    {
+      "project_id": 68,
+      "crew": "Maple",
+      "budget": 23800.0,
+      "actual_cost": 19992.0,
+      "variance": -3808.0,
+      "variance_pct": -16.0
+    },
+    {
+      "project_id": 84,
+      "crew": "Maple",
+      "budget": 29900.0,
+      "actual_cost": 25714.0,
+      "variance": -4186.0,
+      "variance_pct": -14.0
+    },
+    {
+      "project_id": 118,
+      "crew": "Oak",
+      "budget": 23700.0,
+      "actual_cost": 19434.0,
+      "variance": -4266.0,
+      "variance_pct": -18.0
+    },
+    {
+      "project_id": 53,
+      "crew": "Maple",
+      "budget": 28800.0,
+      "actual_cost": 24480.0,
+      "variance": -4320.0,
+      "variance_pct": -15.0
+    },
+    {
+      "project_id": 96,
+      "crew": "Oak",
+      "budget": 21700.0,
+      "actual_cost": 17360.0,
+      "variance": -4340.0,
+      "variance_pct": -20.0
+    },
+    {
+      "project_id": 109,
+      "crew": "Pine",
+      "budget": 20900.0,
+      "actual_cost": 16511.0,
+      "variance": -4389.0,
+      "variance_pct": -21.0
+    },
+    {
+      "project_id": 22,
+      "crew": "Pine",
+      "budget": 24500.0,
+      "actual_cost": 20090.0,
+      "variance": -4410.0,
+      "variance_pct": -18.0
+    },
+    {
+      "project_id": 87,
+      "crew": "Cedar",
+      "budget": 19400.0,
+      "actual_cost": 14938.0,
+      "variance": -4462.0,
+      "variance_pct": -23.0
+    },
+    {
+      "project_id": 105,
+      "crew": "Oak",
+      "budget": 34800.0,
+      "actual_cost": 30276.0,
+      "variance": -4524.0,
+      "variance_pct": -13.0
+    },
+    {
+      "project_id": 51,
+      "crew": "Maple",
+      "budget": 26900.0,
+      "actual_cost": 22327.0,
+      "variance": -4573.0,
+      "variance_pct": -17.0
+    },
+    {
+      "project_id": 89,
+      "crew": "Oak",
+      "budget": 31800.0,
+      "actual_cost": 27030.0,
+      "variance": -4770.0,
+      "variance_pct": -15.0
+    },
+    {
+      "project_id": 120,
+      "crew": "Oak",
+      "budget": 24500.0,
+      "actual_cost": 19600.0,
+      "variance": -4900.0,
+      "variance_pct": -20.0
+    },
+    {
+      "project_id": 86,
+      "crew": "Cedar",
+      "budget": 20900.0,
+      "actual_cost": 15884.0,
+      "variance": -5016.0,
+      "variance_pct": -24.0
+    },
+    {
+      "project_id": 160,
+      "crew": "Maple",
+      "budget": 24700.0,
+      "actual_cost": 19513.0,
+      "variance": -5187.0,
+      "variance_pct": -21.0
+    },
+    {
+      "project_id": 178,
+      "crew": "Cedar",
+      "budget": 30000.0,
+      "actual_cost": 24600.0,
+      "variance": -5400.0,
+      "variance_pct": -18.0
+    },
+    {
+      "project_id": 56,
+      "crew": "Maple",
+      "budget": 23600.0,
+      "actual_cost": 17936.0,
+      "variance": -5664.0,
+      "variance_pct": -24.0
+    },
+    {
+      "project_id": 124,
+      "crew": "Cedar",
+      "budget": 28500.0,
+      "actual_cost": 22800.0,
+      "variance": -5700.0,
+      "variance_pct": -20.0
+    },
+    {
+      "project_id": 65,
+      "crew": "Pine",
+      "budget": 23400.0,
+      "actual_cost": 17550.0,
+      "variance": -5850.0,
+      "variance_pct": -25.0
+    },
+    {
+      "project_id": 2,
+      "crew": "Cedar",
+      "budget": 29600.0,
+      "actual_cost": 23680.0,
+      "variance": -5920.0,
+      "variance_pct": -20.0
+    },
+    {
+      "project_id": 16,
+      "crew": "Cedar",
+      "budget": 33200.0,
+      "actual_cost": 27224.0,
+      "variance": -5976.0,
+      "variance_pct": -18.0
+    },
+    {
+      "project_id": 50,
+      "crew": "Cedar",
+      "budget": 29800.0,
+      "actual_cost": 23542.0,
+      "variance": -6258.0,
+      "variance_pct": -21.0
+    },
+    {
+      "project_id": 161,
+      "crew": "Cedar",
+      "budget": 28900.0,
+      "actual_cost": 22253.0,
+      "variance": -6647.0,
+      "variance_pct": -23.0
+    },
+    {
+      "project_id": 119,
+      "crew": "Pine",
+      "budget": 33600.0,
+      "actual_cost": 26880.0,
+      "variance": -6720.0,
+      "variance_pct": -20.0
+    },
+    {
+      "project_id": 146,
+      "crew": "Oak",
+      "budget": 31500.0,
+      "actual_cost": 23625.0,
+      "variance": -7875.0,
+      "variance_pct": -25.0
+    }
+  ],
+  "04_crew_performance": [
+    {
+      "crew": "Cedar",
+      "assigned": 48,
+      "completed": 45,
+      "avg_late_days": 4.2,
+      "completion_rank": 1
+    },
+    {
+      "crew": "Pine",
+      "assigned": 46,
+      "completed": 42,
+      "avg_late_days": 2.4,
+      "completion_rank": 2
+    },
+    {
+      "crew": "Maple",
+      "assigned": 49,
+      "completed": 40,
+      "avg_late_days": 2.5,
+      "completion_rank": 3
+    },
+    {
+      "crew": "Oak",
+      "assigned": 37,
+      "completed": 33,
+      "avg_late_days": 3.9,
+      "completion_rank": 4
+    }
+  ],
+  "05_permit_analysis": [
+    {
+      "project_type": "Addition",
+      "projects": 60,
+      "approved_permits": 55,
+      "pending_permits": 5,
+      "avg_approval_days": 18.2,
+      "avg_late_days_for_approved_completed": 3.1
+    },
+    {
+      "project_type": "Deck",
+      "projects": 60,
+      "approved_permits": 55,
+      "pending_permits": 5,
+      "avg_approval_days": 17.7,
+      "avg_late_days_for_approved_completed": 3.7
+    },
+    {
+      "project_type": "Patio",
+      "projects": 60,
+      "approved_permits": 50,
+      "pending_permits": 10,
+      "avg_approval_days": 17.8,
+      "avg_late_days_for_approved_completed": 2.9
+    }
+  ],
+  "06_monthly_trends": [
+    {
+      "month": "2025-01",
+      "completed": 7,
+      "cost": 136316.0,
+      "change_in_completed": null,
+      "cumulative_completed": 7
+    },
+    {
+      "month": "2025-02",
+      "completed": 12,
+      "cost": 235542.0,
+      "change_in_completed": 5,
+      "cumulative_completed": 19
+    },
+    {
+      "month": "2025-03",
+      "completed": 14,
+      "cost": 268859.0,
+      "change_in_completed": 2,
+      "cumulative_completed": 33
+    },
+    {
+      "month": "2025-04",
+      "completed": 14,
+      "cost": 299117.0,
+      "change_in_completed": 0,
+      "cumulative_completed": 47
+    },
+    {
+      "month": "2025-05",
+      "completed": 21,
+      "cost": 385572.0,
+      "change_in_completed": 7,
+      "cumulative_completed": 68
+    },
+    {
+      "month": "2025-06",
+      "completed": 23,
+      "cost": 531018.0,
+      "change_in_completed": 2,
+      "cumulative_completed": 91
+    },
+    {
+      "month": "2025-07",
+      "completed": 11,
+      "cost": 255699.0,
+      "change_in_completed": -12,
+      "cumulative_completed": 102
+    },
+    {
+      "month": "2025-08",
+      "completed": 17,
+      "cost": 369734.0,
+      "change_in_completed": 6,
+      "cumulative_completed": 119
+    },
+    {
+      "month": "2025-09",
+      "completed": 20,
+      "cost": 416803.0,
+      "change_in_completed": 3,
+      "cumulative_completed": 139
+    },
+    {
+      "month": "2025-10",
+      "completed": 14,
+      "cost": 303885.0,
+      "change_in_completed": -6,
+      "cumulative_completed": 153
+    },
+    {
+      "month": "2025-11",
+      "completed": 7,
+      "cost": 170161.0,
+      "change_in_completed": -7,
+      "cumulative_completed": 160
+    }
+  ]
+}
